@@ -1,4 +1,4 @@
-# Jelajah Malang
+# Keliling Malang
 
 Aplikasi mobile informasi wisata Malang Raya yang dibangun dengan Flutter.
 Dibuat untuk Ujian Tengah Semester (UTS) mata kuliah Mobile Programming, Semester Ganjil 2025/2026.
