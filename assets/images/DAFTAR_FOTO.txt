@@ -1,0 +1,14 @@
+Letakkan foto (format .jpg) di folder ini dengan nama persis seperti berikut:
+
+Candi Singosari  ->  candi_singosari.jpg
+Coban Rondo  ->  coban_rondo.jpg
+Kampung Warna-Warni Jodipan  ->  kampung_warna_warni_jodipan.jpg
+Pantai Tiga Warna  ->  pantai_tiga_warna.jpg
+Museum Angkut  ->  museum_angkut.jpg
+Jatim Park 2  ->  jatim_park_2.jpg
+Bakso President  ->  bakso_president.jpg
+Toko Oen  ->  toko_oen.jpg
+Taman Selecta  ->  taman_selecta.jpg
+Pantai Balekambang  ->  pantai_balekambang.jpg
+Rawon Nguling  ->  rawon_nguling.jpg
+Candi Jago  ->  candi_jago.jpg

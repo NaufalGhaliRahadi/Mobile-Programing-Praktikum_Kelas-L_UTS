@@ -1,0 +1,424 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Candi Singosari",
+      "category": "Budaya",
+      "location": "Singosari, Kab. Malang",
+      "rating": 4.6,
+      "ticket_price": "Rp 5.000 - Rp 10.000",
+      "open_hours": "07.00 - 17.00 WIB",
+      "description": "Candi peninggalan Kerajaan Singhasari yang berada di tengah permukiman warga Singosari. Bangunan bercorak Hindu-Buddha ini dipercaya sebagai tempat pendharmaan Raja Kertanegara. Pengunjung dapat melihat arca Dwarapala raksasa yang berada tidak jauh dari candi.",
+      "image_url": "assets/images/candi_singosari.jpg",
+      "map_url": "https://maps.app.goo.gl/aDChWMePXMUg9L7N9",
+      "facilities": [
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        },
+        {
+          "name": "Pemandu lokal",
+          "icon": "guide",
+          "description": "Pemandu dari warga sekitar dapat menjelaskan sejarah dan cerita tempat ini. Tarif biasanya disepakati langsung di lokasi."
+        },
+        {
+          "name": "Taman",
+          "icon": "park",
+          "description": "Area taman terbuka yang nyaman untuk bersantai dan berjalan santai bersama keluarga."
+        }
+      ],
+      "added_date": "2026-10-10"
+    },
+    {
+      "id": 2,
+      "name": "Coban Rondo",
+      "category": "Alam",
+      "location": "Pujon, Kab. Malang",
+      "rating": 4.5,
+      "ticket_price": "Rp 30.000 - Rp 40.000",
+      "open_hours": "07.00 - 16.00 WIB",
+      "description": "Air terjun setinggi puluhan meter yang dikelilingi hutan pinus dan udara pegunungan yang sejuk. Kawasannya juga memiliki jalur jalan santai, labirin taman, dan area bermain keluarga.",
+      "image_url": "assets/images/coban_rondo.jpg",
+      "map_url": "https://maps.app.goo.gl/doURepVvec3Q7QCD8",
+      "facilities": [
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Musala",
+          "icon": "mosque",
+          "description": "Tersedia musala untuk beribadah. Pengunjung dapat menggunakannya secara gratis atau dengan donasi sukarela."
+        },
+        {
+          "name": "Warung makan",
+          "icon": "food",
+          "description": "Warung makan menyediakan makanan dan minuman khas daerah dengan harga terjangkau."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        },
+        {
+          "name": "Spot foto",
+          "icon": "photo",
+          "description": "Beberapa titik pemandangan menarik yang cocok untuk berfoto. Waktu terbaik adalah pagi atau sore hari."
+        }
+      ],
+      "added_date": "2026-09-28"
+    },
+    {
+      "id": 3,
+      "name": "Kampung Warna-Warni Jodipan",
+      "category": "Budaya",
+      "location": "Kota Malang",
+      "rating": 4.3,
+      "ticket_price": "Rp 5.000",
+      "open_hours": "08.00 - 17.00 WIB",
+      "description": "Kampung di bantaran Sungai Brantas yang dicat penuh warna oleh warga bersama mahasiswa. Cocok untuk wisata singkat dan berfoto, dengan jembatan kaca yang menghubungkan dua kampung.",
+      "image_url": "assets/images/kampung_warna_warni_jodipan.jpg",
+      "map_url": "https://maps.app.goo.gl/s7oemc1XExB2Sxz26",
+      "facilities": [
+        {
+          "name": "Jembatan kaca",
+          "icon": "bridge",
+          "description": "Jembatan kaca penghubung dua kampung dengan pemandangan sungai di bawahnya. Pengunjung diminta tidak berkerumun di satu titik."
+        },
+        {
+          "name": "Spot foto",
+          "icon": "photo",
+          "description": "Beberapa titik pemandangan menarik yang cocok untuk berfoto. Waktu terbaik adalah pagi atau sore hari."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        },
+        {
+          "name": "Warung",
+          "icon": "stall",
+          "description": "Warung kecil menjual camilan, minuman, dan kebutuhan ringan pengunjung."
+        }
+      ],
+      "added_date": "2026-10-05"
+    },
+    {
+      "id": 4,
+      "name": "Pantai Tiga Warna",
+      "category": "Alam",
+      "location": "Sumbermanjing Wetan, Kab. Malang",
+      "rating": 4.8,
+      "ticket_price": "Rp 10.000 + konservasi",
+      "open_hours": "08.00 - 15.00 WIB",
+      "description": "Pantai tersembunyi dengan gradasi air laut tiga warna. Kunjungan dibatasi demi menjaga kelestarian terumbu karang, sehingga pengunjung perlu mendaftar terlebih dahulu.",
+      "image_url": "assets/images/pantai_tiga_warna.jpg",
+      "map_url": "https://maps.app.goo.gl/fHKoqwfdQ2fxLdH57",
+      "facilities": [
+        {
+          "name": "Snorkeling",
+          "icon": "snorkel",
+          "description": "Pengunjung dapat menikmati terumbu karang dengan snorkeling. Peralatan umumnya dapat disewa di lokasi. Jangan menyentuh atau mengambil karang."
+        },
+        {
+          "name": "Pos konservasi",
+          "icon": "post",
+          "description": "Pos pengelola yang mengatur jumlah pengunjung dan menjaga kelestarian lingkungan. Ikuti arahan petugas."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        },
+        {
+          "name": "Musala",
+          "icon": "mosque",
+          "description": "Tersedia musala untuk beribadah. Pengunjung dapat menggunakannya secara gratis atau dengan donasi sukarela."
+        }
+      ],
+      "added_date": "2026-08-20"
+    },
+    {
+      "id": 5,
+      "name": "Museum Angkut",
+      "category": "Rekreasi",
+      "location": "Batu, Kota Batu",
+      "rating": 4.7,
+      "ticket_price": "Rp 100.000",
+      "open_hours": "12.00 - 20.00 WIB",
+      "description": "Museum transportasi dengan koleksi kendaraan dari berbagai negara dan zaman. Dilengkapi zona bertema kota-kota dunia sehingga nyaman dijelajahi bersama keluarga.",
+      "image_url": "assets/images/museum_angkut.jpg",
+      "map_url": "https://maps.app.goo.gl/1mjF9DDD3dwFz57a7",
+      "facilities": [
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Restoran",
+          "icon": "restaurant",
+          "description": "Restoran di dalam kawasan menyediakan beragam menu makanan dan minuman untuk keluarga."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        },
+        {
+          "name": "Musala",
+          "icon": "mosque",
+          "description": "Tersedia musala untuk beribadah. Pengunjung dapat menggunakannya secara gratis atau dengan donasi sukarela."
+        },
+        {
+          "name": "Toko suvenir",
+          "icon": "souvenir",
+          "description": "Toko cenderamata menjual oleh-oleh dan suvenir khas sebagai kenang-kenangan."
+        }
+      ],
+      "added_date": "2026-10-12"
+    },
+    {
+      "id": 6,
+      "name": "Jatim Park 2",
+      "category": "Rekreasi",
+      "location": "Batu, Kota Batu",
+      "rating": 4.6,
+      "ticket_price": "Rp 120.000",
+      "open_hours": "09.00 - 17.00 WIB",
+      "description": "Taman rekreasi keluarga yang memadukan kebun binatang dan museum satwa. Pengunjung dapat melihat beragam satwa sekaligus belajar tentang dunia hewan.",
+      "image_url": "assets/images/jatim_park_2.jpg",
+      "map_url": "https://maps.app.goo.gl/pzvtWpcGxr3vtis58",
+      "facilities": [
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Restoran",
+          "icon": "restaurant",
+          "description": "Restoran di dalam kawasan menyediakan beragam menu makanan dan minuman untuk keluarga."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        },
+        {
+          "name": "Musala",
+          "icon": "mosque",
+          "description": "Tersedia musala untuk beribadah. Pengunjung dapat menggunakannya secara gratis atau dengan donasi sukarela."
+        },
+        {
+          "name": "Penyewaan stroller",
+          "icon": "stroller",
+          "description": "Stroller dapat disewa untuk membantu pengunjung yang membawa anak kecil."
+        }
+      ],
+      "added_date": "2026-09-15"
+    },
+    {
+      "id": 7,
+      "name": "Bakso President",
+      "category": "Kuliner",
+      "location": "Kota Malang",
+      "rating": 4.4,
+      "ticket_price": "Rp 20.000 - Rp 40.000",
+      "open_hours": "09.00 - 21.00 WIB",
+      "description": "Warung bakso legendaris di Malang yang terkenal dengan kuah gurih, bakso urat, dan bakso goreng. Selalu ramai pada akhir pekan.",
+      "image_url": "assets/images/bakso_president.jpg",
+      "map_url": "https://maps.app.goo.gl/pScn4VmCbdWRErdX6",
+      "facilities": [
+        {
+          "name": "Dine-in",
+          "icon": "dinein",
+          "description": "Pengunjung dapat makan langsung di tempat dengan area duduk yang tersedia."
+        },
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        }
+      ],
+      "added_date": "2026-10-14"
+    },
+    {
+      "id": 8,
+      "name": "Toko Oen",
+      "category": "Kuliner",
+      "location": "Kota Malang",
+      "rating": 4.5,
+      "ticket_price": "Rp 30.000 - Rp 70.000",
+      "open_hours": "09.00 - 21.00 WIB",
+      "description": "Kedai es krim dan restoran bergaya kolonial yang sudah berdiri sejak lama. Suasana klasik menjadikannya tempat favorit untuk bersantai.",
+      "image_url": "assets/images/toko_oen.jpg",
+      "map_url": "https://maps.app.goo.gl/rnpvQdyZtdZ8bUWt5",
+      "facilities": [
+        {
+          "name": "Dine-in",
+          "icon": "dinein",
+          "description": "Pengunjung dapat makan langsung di tempat dengan area duduk yang tersedia."
+        },
+        {
+          "name": "Wi-Fi",
+          "icon": "wifi",
+          "description": "Akses Wi-Fi tersedia bagi pengunjung. Kecepatan dapat berbeda tergantung kondisi."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        },
+        {
+          "name": "AC",
+          "icon": "ac",
+          "description": "Ruangan ber-AC sehingga nyaman, terutama saat cuaca panas."
+        }
+      ],
+      "added_date": "2026-09-02"
+    },
+    {
+      "id": 9,
+      "name": "Taman Selecta",
+      "category": "Rekreasi",
+      "location": "Batu, Kota Batu",
+      "rating": 4.4,
+      "ticket_price": "Rp 50.000",
+      "open_hours": "07.00 - 17.00 WIB",
+      "description": "Taman wisata dengan kolam renang, taman bunga, dan wahana keluarga di kawasan berhawa sejuk lereng Gunung Arjuno.",
+      "image_url": "assets/images/taman_selecta.jpg",
+      "map_url": "https://maps.app.goo.gl/9J2b3cqZVaCZJv3u6",
+      "facilities": [
+        {
+          "name": "Kolam renang",
+          "icon": "pool",
+          "description": "Kolam renang untuk dewasa dan anak-anak. Gunakan pakaian renang yang sesuai aturan pengelola."
+        },
+        {
+          "name": "Taman bunga",
+          "icon": "flower",
+          "description": "Taman bunga berwarna-warni yang cocok untuk berjalan santai dan berfoto."
+        },
+        {
+          "name": "Restoran",
+          "icon": "restaurant",
+          "description": "Restoran di dalam kawasan menyediakan beragam menu makanan dan minuman untuk keluarga."
+        },
+        {
+          "name": "Penginapan",
+          "icon": "hotel",
+          "description": "Tersedia penginapan di sekitar atau di dalam kawasan bagi pengunjung yang ingin menginap."
+        }
+      ],
+      "added_date": "2026-08-30"
+    },
+    {
+      "id": 10,
+      "name": "Pantai Balekambang",
+      "category": "Alam",
+      "location": "Bantur, Kab. Malang",
+      "rating": 4.5,
+      "ticket_price": "Rp 15.000",
+      "open_hours": "07.00 - 17.00 WIB",
+      "description": "Pantai dengan pura kecil di atas pulau karang yang terhubung jembatan. Disebut juga 'Tanah Lot-nya Malang' dan ramai saat sore hari.",
+      "image_url": "assets/images/pantai_balekambang.jpg",
+      "map_url": "https://maps.app.goo.gl/fnXB6n8PjxvuJY8P6",
+      "facilities": [
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Musala",
+          "icon": "mosque",
+          "description": "Tersedia musala untuk beribadah. Pengunjung dapat menggunakannya secara gratis atau dengan donasi sukarela."
+        },
+        {
+          "name": "Warung",
+          "icon": "stall",
+          "description": "Warung kecil menjual camilan, minuman, dan kebutuhan ringan pengunjung."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        }
+      ],
+      "added_date": "2026-10-01"
+    },
+    {
+      "id": 11,
+      "name": "Rawon Nguling",
+      "category": "Kuliner",
+      "location": "Kab. Malang",
+      "rating": 4.3,
+      "ticket_price": "Rp 25.000 - Rp 45.000",
+      "open_hours": "07.00 - 15.00 WIB",
+      "description": "Rawon dengan kuah hitam kluwek yang pekat, disajikan dengan daging empuk, tauge pendek, dan sambal. Menu sarapan khas Jawa Timur.",
+      "image_url": "assets/images/rawon_nguling.jpg",
+      "map_url": "https://maps.app.goo.gl/tmNm8i1wq8ms1dLp7",
+      "facilities": [
+        {
+          "name": "Dine-in",
+          "icon": "dinein",
+          "description": "Pengunjung dapat makan langsung di tempat dengan area duduk yang tersedia."
+        },
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Musala",
+          "icon": "mosque",
+          "description": "Tersedia musala untuk beribadah. Pengunjung dapat menggunakannya secara gratis atau dengan donasi sukarela."
+        }
+      ],
+      "added_date": "2026-10-16"
+    },
+    {
+      "id": 12,
+      "name": "Candi Jago",
+      "category": "Budaya",
+      "location": "Tumpang, Kab. Malang",
+      "rating": 4.2,
+      "ticket_price": "Gratis / donasi",
+      "open_hours": "07.00 - 16.00 WIB",
+      "description": "Candi peninggalan Singhasari yang dihiasi relief cerita-cerita kuno di dindingnya. Bangunannya berundak dan menarik bagi pecinta sejarah.",
+      "image_url": "assets/images/candi_jago.jpg",
+      "map_url": "https://maps.app.goo.gl/tiwupRn4wZ1gwwVY6",
+      "facilities": [
+        {
+          "name": "Area parkir",
+          "icon": "parking",
+          "description": "Tersedia area parkir untuk kendaraan roda dua dan roda empat. Pengunjung disarankan datang lebih awal saat akhir pekan atau musim liburan."
+        },
+        {
+          "name": "Taman",
+          "icon": "park",
+          "description": "Area taman terbuka yang nyaman untuk bersantai dan berjalan santai bersama keluarga."
+        },
+        {
+          "name": "Toilet",
+          "icon": "toilet",
+          "description": "Toilet umum tersedia di area wisata. Sebaiknya bawa tisu dan jaga kebersihan bersama."
+        }
+      ],
+      "added_date": "2026-09-08"
+    }
+  ]
+}
